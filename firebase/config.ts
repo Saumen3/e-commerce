@@ -5,12 +5,12 @@ import { getStorage } from "firebase/storage"
 import { getAuth, GoogleAuthProvider } from "firebase/auth"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDGWc5PF3euUrF1m2Wl4EfbmiUIoaUmH2c",
-  authDomain: "capellari-coderhouse.firebaseapp.com",
-  projectId: "capellari-coderhouse",
-  storageBucket: "capellari-coderhouse.appspot.com",
-  messagingSenderId: "686022474693",
-  appId: "1:686022474693:web:a75fc6938252eb3ad329ac"
+  apiKey: "AIzaTyGTSc5LF3euUrF1m2Wl4FfbmiUIoaUmG2e",
+  authDomain: "e-commerce.firebaseapp.com",
+  projectId: "commerce",
+  storageBucket: "commerce.appspot.com",
+  messagingSenderId: "697654321259",
+  appId: "1:697654321259:web:a45fc6989098eb3ad329ac"
 };
 
 const app = initializeApp(firebaseConfig);
